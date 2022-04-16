@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+.result {
+  border: 1px solid black;
+  width: 70%;
+  margin: 1rem;
+  border-radius: 1rem;
+  padding-left: 1rem;
+}
+p {
+  font-size: large;
+  display: block;
+  margin-block-start: none;
+  margin-block-end: none;
+  margin-inline-start: none;
+  margin-inline-end: none;
+}
+button {
+  padding: 0.5rem 1rem;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+  background: "#E5E7EB";
+}
+.newp {
+  font-size: small;
+}
+
+body {
+  font-family: "Lato", sans-ser-if;
+  background-color: #efefef;
+}
